@@ -1,3 +1,3 @@
 # odin-recipes
 
-A project showcasing what HTML from odin project.
+A project showcasing what HTML from odin project.s
